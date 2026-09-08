@@ -194,7 +194,10 @@ Exploring scalable architectures, distributed systems, databases, networking, an
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td><strong>Compute</strong></td>
-    <td>EC2 · Lambda · Elastic Beanstalk</td>
+    <td> 
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="35">
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/express/FFFFFF" width="35"></td>
   </tr>
   <tr>
     <td><strong>Storage</strong></td>
