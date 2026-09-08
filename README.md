@@ -12,7 +12,7 @@
   technologies can solve real-world problems.
 </p>
 
-<table>
+<table border="0">
   <tr>
     <td><img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="20"></td>
     <td>Building full-stack and backend applications</td>
