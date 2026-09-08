@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hi, I'm Lehaan 👋<br>Software Engineer | Cloud & Full-Stack Developer | AWS<br><br>I'm a Software Engineer with a background in Information Technology, focused on<br>building production-grade software and scalable cloud-based systems.<br><br>- 💻 Interested in Software Engineering, Backend Development & System Design<br>- ☁️ Building with AWS and exploring cloud-native architectures<br>- 🏗️ Passionate about scalable, maintainable & distributed systems<br>- 🤖 Exploring AI/LLM technologies and their applications in software<br>- 🚀 Always learning, building, and experimenting with new technologies
+<h2>
+  <img src="https://api.iconify.design/lucide:user-round.svg?color=%2358A6FF" width="25">
+  About Me
+</h2>
+
+Hi, I'm Lehaan.<br>
+<strong>Software Engineer | Cloud & Full-Stack Developer | AWS</strong><br><br>
+
+I enjoy building scalable, reliable software and exploring how modern
+technologies can solve real-world problems.<br><br>
+
+- <img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="18"> Building full-stack and backend applications
+- <img src="https://api.iconify.design/lucide:cloud.svg?color=%2358A6FF" width="18"> Developing cloud-native solutions with AWS
+- <img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="18"> Exploring distributed systems & scalable architectures
+- <img src="https://api.iconify.design/lucide:brain.svg?color=%2358A6FF" width="18"> Exploring AI and LLM-powered applications
+- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="18"> Continuously learning and improving as an engineer
 
 
 ## 🌐 Socials:
