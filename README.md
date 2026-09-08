@@ -166,7 +166,7 @@ Exploring scalable architectures, distributed systems, databases, networking, an
   &nbsp;
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="35">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"  width="35"/>
 </p>
 
 ### Databases
