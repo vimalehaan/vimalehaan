@@ -1,9 +1,37 @@
+<div align="center">
+
+# Hey, I'm Lehaan
+
+### Software Engineer · Cloud · Full-Stack · AWS
+
+Building scalable software, exploring cloud-native architectures,
+and turning ideas into real-world applications.
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 <h2>
+  <img src="https://api.iconify.design/lucide:user-round.svg?color=%2358A6FF" width="24" height="24" valign="middle">
   About Me
 </h2>
 
 <p>
-  Hi, I'm Lehaan.<br>
+  Hi, I'm Lehaan.
   <strong>Software Engineer | Cloud & Full-Stack Developer | AWS</strong>
 </p>
 
@@ -45,15 +73,336 @@
   </tr>
 </table>
 
+---
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lehaananth-vimalanathan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimalehaan2312@gmail.com) 
+<h2>
+  <img src="https://api.iconify.design/lucide:layers-3.svg?color=%2358A6FF" width="24" height="24" valign="middle">
+  What I Do
+</h2>
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# GitHub Stats:
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vimalehaan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Backend Engineering
 
+Designing robust APIs and backend systems with a focus on clean architecture, maintainability, performance, and reliability.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</td>
+<td width="50%" valign="top">
+
+### Cloud Engineering
+
+Building and deploying applications using AWS and exploring cloud-native architectures designed for scalability and resilience.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Full-Stack Development
+
+Building complete applications across the frontend, backend, APIs, databases, and deployment layers.
+
+</td>
+<td width="50%" valign="top">
+
+### System Design
+
+Exploring scalable architectures, distributed systems, databases, networking, and the engineering decisions behind reliable systems.
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2>
+  <img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="24" height="24" valign="middle">
+  Tech Stack
+</h2>
+
+### Languages
+
+<p>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/java/ED8B00" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="35">
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="35">
+</p>
+
+### Backend
+
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="35">
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="40">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="35">
+</p>
+
+### Databases
+
+<p>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="35">
+</p>
+
+---
+
+<h2>
+  <img src="https://api.iconify.design/lucide:cloud.svg?color=%2358A6FF" width="24" height="24" valign="middle">
+  Cloud & AWS
+</h2>
+
+<p>
+  Building and deploying applications on AWS while developing a deeper
+  understanding of cloud architecture, scalability, security, and reliability.
+</p>
+
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td><strong>Compute</strong></td>
+    <td>EC2 · Lambda · Elastic Beanstalk</td>
+  </tr>
+  <tr>
+    <td><strong>Storage</strong></td>
+    <td>S3</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>RDS · DynamoDB</td>
+  </tr>
+  <tr>
+    <td><strong>Networking</strong></td>
+    <td>VPC · Load Balancing</td>
+  </tr>
+  <tr>
+    <td><strong>Security</strong></td>
+    <td>IAM</td>
+  </tr>
+  <tr>
+    <td><strong>API & Monitoring</strong></td>
+    <td>API Gateway · CloudWatch</td>
+  </tr>
+</table>
+
+---
+
+<h2>
+  <img src="https://api.iconify.design/lucide:rocket.svg?color=%2358A6FF" width="24" height="24" valign="middle">
+  Featured Projects
+</h2>
+
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
+
+### ☁️ AWS Cloud Application
+
+A cloud-based application demonstrating real-world application deployment and integration with AWS services.
+
+**AWS · Node.js · React · Database**
+
+<a href="YOUR_PROJECT_1_URL">View Project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Full-Stack Application
+
+A full-stack application built with a modern frontend, RESTful backend, and persistent data layer.
+
+**React · Node.js · Express · Database**
+
+<a href="YOUR_PROJECT_2_URL">View Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered Application
+
+An application exploring practical use cases of AI and LLM technologies within modern software systems.
+
+**Python · AI · LLMs · APIs**
+
+<a href="YOUR_PROJECT_3_URL">View Project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ Backend & Systems Project
+
+A project focused on backend engineering, system architecture, databases, and scalable application design.
+
+**Java · APIs · Database · Architecture**
+
+<a href="YOUR_PROJECT_4_URL">View Project →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2>
+  <img src="https://api.iconify.design/lucide:brain.svg?color=%2358A6FF" width="24" height="24" valign="middle">
+  Engineering Interests
+</h2>
+
+<table border="0" cellspacing="0" cellpadding="5">
+  <tr>
+    <td>System Design</td>
+    <td>Distributed Systems</td>
+    <td>Cloud Architecture</td>
+  </tr>
+  <tr>
+    <td>Backend Engineering</td>
+    <td>Scalable Applications</td>
+    <td>Microservices</td>
+  </tr>
+  <tr>
+    <td>DevOps & CI/CD</td>
+    <td>AI / LLM Applications</td>
+    <td>Software Architecture</td>
+  </tr>
+</table>
+
+---
+
+<h2>
+  <img src="https://api.iconify.design/lucide:book-open.svg?color=%2358A6FF" width="24" height="24" valign="middle">
+  Currently Learning
+</h2>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="30">
+      <img src="https://api.iconify.design/lucide:cloud-cog.svg?color=%2358A6FF" width="20">
+    </td>
+    <td>Advanced AWS & Cloud Architecture</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="20">
+    </td>
+    <td>Distributed Systems & System Design</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="20">
+    </td>
+    <td>AI / LLM Application Development</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://api.iconify.design/lucide:git-branch.svg?color=%2358A6FF" width="20">
+    </td>
+    <td>DevOps & CI/CD</td>
+  </tr>
+</table>
+
+---
+
+<h2>
+  <img src="https://api.iconify.design/lucide:award.svg?color=%2358A6FF" width="24" height="24" valign="middle">
+  Certifications & Learning
+</h2>
+
+- AWS Certifications
+- Cloud & AWS Architecture
+- AI / LLM Development
+- Continuous Software Engineering Learning
+
+---
+
+<h2>
+  <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2358A6FF" width="24" height="24" valign="middle">
+  GitHub Activity
+</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+
+</div>
+
+---
+
+<h2>
+  <img src="https://api.iconify.design/lucide:handshake.svg?color=%2358A6FF" width="24" height="24" valign="middle">
+  Let's Connect
+</h2>
+
+<p>
+  I'm always interested in connecting with people who are passionate about
+  software engineering, cloud technologies, system design, and AI.
+</p>
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+### Build. Learn. Improve. Repeat.
+
+</div>
