@@ -195,9 +195,9 @@ Exploring scalable architectures, distributed systems, databases, networking, an
   <tr>
     <td><strong>Compute</strong></td>
     <td> 
-    <span style="display:inline-block; border-radius:6px; overflow:hidden;">
-  <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="25">
-</span>
+      <span style="display:inline-block; border-radius:6px; overflow:hidden;">
+        <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="25">
+      </span>
       &nbsp;
       <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="25"></td>
   </tr>
