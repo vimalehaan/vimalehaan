@@ -12,25 +12,35 @@
   technologies can solve real-world problems.
 </p>
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="20"></td>
+    <td width="30">
+      <img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="20">
+    </td>
     <td>Building full-stack and backend applications</td>
   </tr>
   <tr>
-    <td><img src="https://api.iconify.design/lucide:cloud.svg?color=%2358A6FF" width="20"></td>
+    <td>
+      <img src="https://api.iconify.design/lucide:cloud.svg?color=%2358A6FF" width="20">
+    </td>
     <td>Developing cloud-native solutions with AWS</td>
   </tr>
   <tr>
-    <td><img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="20"></td>
+    <td>
+      <img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="20">
+    </td>
     <td>Exploring distributed systems & scalable architectures</td>
   </tr>
   <tr>
-    <td><img src="https://api.iconify.design/lucide:brain.svg?color=%2358A6FF" width="20"></td>
+    <td>
+      <img src="https://api.iconify.design/lucide:brain.svg?color=%2358A6FF" width="20">
+    </td>
     <td>Exploring AI and LLM-powered applications</td>
   </tr>
   <tr>
-    <td><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="20"></td>
+    <td>
+      <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="20">
+    </td>
     <td>Continuously learning and improving as an engineer</td>
   </tr>
 </table>
