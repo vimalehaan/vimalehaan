@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://api.iconify.design/lucide:user-round.svg?color=%2358A6FF" width="24" height="24" valign="middle">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
   About Me
 </h2>
 
