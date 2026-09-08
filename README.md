@@ -191,37 +191,13 @@ Exploring scalable architectures, distributed systems, databases, networking, an
   understanding of cloud architecture, scalability, security, and reliability.
 </p>
 
-<table border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td><strong>Compute</strong></td>
-    <td> 
-      <span style="display:inline-block; border-radius:6px; overflow:hidden;">
-        <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="25">
-      </span>
-      &nbsp;
-      <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="25"></td>
-  </tr>
-  <tr>
-    <td><strong>Storage</strong></td>
-    <td>S3</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>RDS · DynamoDB</td>
-  </tr>
-  <tr>
-    <td><strong>Networking</strong></td>
-    <td>VPC · Load Balancing</td>
-  </tr>
-  <tr>
-    <td><strong>Security</strong></td>
-    <td>IAM</td>
-  </tr>
-  <tr>
-    <td><strong>API & Monitoring</strong></td>
-    <td>API Gateway · CloudWatch</td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="35">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="35">
+</p>
 
 ---
 
