@@ -158,7 +158,7 @@ Exploring scalable architectures, distributed systems, databases, networking, an
 ### Cloud & DevOps
 
 <p>
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="40">
+  <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="40">
   &nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="35">
   &nbsp;
