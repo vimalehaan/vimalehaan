@@ -192,7 +192,7 @@ Exploring scalable architectures, distributed systems, databases, networking, an
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="35">
+  <img src="https://awsstatic.com" alt="AWS EC2" width="35">
   &nbsp;
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="35">
   &nbsp;
