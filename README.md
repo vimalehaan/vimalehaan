@@ -1,19 +1,40 @@
 <h2>
-  <img src="https://api.iconify.design/lucide:user-round.svg?color=%2358A6FF" width="25">
+  <img src="https://api.iconify.design/lucide:user-round.svg?color=%2358A6FF" width="24" height="24" valign="middle">
   About Me
 </h2>
 
-Hi, I'm Lehaan.<br>
-<strong>Software Engineer | Cloud & Full-Stack Developer | AWS</strong><br><br>
+<p>
+  Hi, I'm Lehaan.<br>
+  <strong>Software Engineer | Cloud & Full-Stack Developer | AWS</strong>
+</p>
 
-I enjoy building scalable, reliable software and exploring how modern
-technologies can solve real-world problems.<br><br>
+<p>
+  I enjoy building scalable, reliable software and exploring how modern
+  technologies can solve real-world problems.
+</p>
 
-- <img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="18"> Building full-stack and backend applications
-- <img src="https://api.iconify.design/lucide:cloud.svg?color=%2358A6FF" width="18"> Developing cloud-native solutions with AWS
-- <img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="18"> Exploring distributed systems & scalable architectures
-- <img src="https://api.iconify.design/lucide:brain.svg?color=%2358A6FF" width="18"> Exploring AI and LLM-powered applications
-- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="18"> Continuously learning and improving as an engineer
+<table>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="20"></td>
+    <td>Building full-stack and backend applications</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:cloud.svg?color=%2358A6FF" width="20"></td>
+    <td>Developing cloud-native solutions with AWS</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="20"></td>
+    <td>Exploring distributed systems & scalable architectures</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:brain.svg?color=%2358A6FF" width="20"></td>
+    <td>Exploring AI and LLM-powered applications</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="20"></td>
+    <td>Continuously learning and improving as an engineer</td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
