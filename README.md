@@ -127,17 +127,21 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
   </p>
   <p>
     <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="40" alt="EC2" style="border-radius: 10px;">
-     <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="40" alt="EC2" style="border-radius: 10px;">
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logoColor=white" alt="S3">
-    <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logoColor=white" alt="Lambda">
-    <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logoColor=white" alt="RDS">
-    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logoColor=white" alt="DynamoDB">
-    <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logoColor=white" alt="API Gateway">
-    <img src="https://img.shields.io/badge/VPC-7AA116?style=for-the-badge&logoColor=white" alt="VPC">
-    <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logoColor=white" alt="IAM">
-    <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logoColor=white" alt="CloudWatch">
-    <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logoColor=white" alt="Elastic Beanstalk">
+     <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="40" alt="S#" style="border-radius: 10px;">
+      <img src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg" width="40" alt="EC2" style="border-radius: 10px;">
+      <img src="https://icon.icepanel.io/AWS/svg/Database/Aurora.svg" width="40" alt="S#" style="border-radius: 10px;">
+     <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Virtual-Private-Cloud.svg" width="40" alt="S#" style="border-radius: 10px;">
+    <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Identity-and-Access-Management.svg" width="40" alt="EC2" style="border-radius: 10px;">
+     <img src="https://icon.icepanel.io/AWS/svg/Storage/EFS.svg" width="40" alt="S#" style="border-radius: 10px;">
+      <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Elastic-Load-Balancing.svg" width="40" alt="EC2" style="border-radius: 10px;">
+     <img src="https://icon.icepanel.io/AWS/svg/Database/ElastiCache.svg" width="40" alt="S#" style="border-radius: 10px;">
+    <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" width="40" alt="EC2" style="border-radius: 10px;">
+     <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/CloudFront.svg" width="40" alt="S#" style="border-radius: 10px;">
+      <img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Container-Service.svg" width="40" alt="EC2" style="border-radius: 10px;">
+     <img src="https://icon.icepanel.io/AWS/svg/Compute/Elastic-Beanstalk.svg" width="40" alt="S#" style="border-radius: 10px;">
+    <img src="https://icon.icepanel.io/AWS/svg/Analytics/CloudSearch.svg" width="40" alt="EC2" style="border-radius: 10px;">
+     <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" width="40" alt="S#" style="border-radius: 10px;">
+      <img src="https://icon.icepanel.io/AWS/svg/Storage/Elastic-Block-Store.svg" width="40" alt="EC2" style="border-radius: 10px;">
   </p>
 </blockquote>
 
