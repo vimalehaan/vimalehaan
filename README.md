@@ -30,16 +30,9 @@
   &nbsp;About Me
 </h2>
 
-```yaml
-name: Lehaan
-role: Software Engineer
-focus: Cloud · Full-Stack · AWS
-location: India
-interests: [System Design, Distributed Systems, AI/LLMs]
-currently: Building scalable, reliable software
-```
+I'm a **Software Engineer** focused on building scalable and reliable applications across the stack. I'm passionate about **backend engineering, cloud technologies, system design, distributed systems, and AI**, and I enjoy turning ideas into practical software solutions.
 
-<blockquote>
+<!-- <blockquote>
   <p>
     <img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="20" valign="middle">
     &nbsp;<strong>Full-Stack Development</strong><br>
@@ -77,7 +70,7 @@ currently: Building scalable, reliable software
     &nbsp;<strong>Continuous Learning</strong><br>
     Continuously learning and improving as an engineer
   </p>
-</blockquote>
+</blockquote> -->
 
 <br>
 
@@ -134,6 +127,27 @@ currently: Building scalable, reliable software
     <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda">
     <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudWatch">
     <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Route 53">
+  </p>
+</blockquote>
+
+<br>
+
+<h2 align="left">
+  <img src="https://api.iconify.design/lucide:sparkles.svg?color=%2358A6FF" width="28" height="28" valign="middle">
+  &nbsp;Engineering Interests
+</h2>
+
+<blockquote>
+  <p>
+    <img src="https://img.shields.io/badge/System_Design-161B22?style=for-the-badge&logo=diagramsdotnet&logoColor=58A6FF" alt="System Design">
+    <img src="https://img.shields.io/badge/Distributed_Systems-161B22?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" alt="Distributed Systems">
+    <img src="https://img.shields.io/badge/Cloud_Architecture-161B22?style=for-the-badge&logo=amazonaws&logoColor=58A6FF" alt="Cloud Architecture">
+    <img src="https://img.shields.io/badge/Backend_Engineering-161B22?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="Backend Engineering">
+    <img src="https://img.shields.io/badge/Scalable_Apps-161B22?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Scalable Applications">
+    <img src="https://img.shields.io/badge/Microservices-161B22?style=for-the-badge&logo=kubernetes&logoColor=58A6FF" alt="Microservices">
+    <img src="https://img.shields.io/badge/DevOps_&_CI/CD-161B22?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="DevOps">
+    <img src="https://img.shields.io/badge/AI_/_LLM_Apps-161B22?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="AI/LLM">
+    <img src="https://img.shields.io/badge/Software_Architecture-161B22?style=for-the-badge&logo=graphql&logoColor=58A6FF" alt="Software Architecture">
   </p>
 </blockquote>
 
@@ -196,26 +210,7 @@ currently: Building scalable, reliable software
 <br>
 
 <!-- Engineering Interests -->
-<h2 align="left">
-  <img src="https://api.iconify.design/lucide:sparkles.svg?color=%2358A6FF" width="28" height="28" valign="middle">
-  &nbsp;Engineering Interests
-</h2>
 
-<blockquote>
-  <p>
-    <img src="https://img.shields.io/badge/System_Design-161B22?style=for-the-badge&logo=diagramsdotnet&logoColor=58A6FF" alt="System Design">
-    <img src="https://img.shields.io/badge/Distributed_Systems-161B22?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" alt="Distributed Systems">
-    <img src="https://img.shields.io/badge/Cloud_Architecture-161B22?style=for-the-badge&logo=amazonaws&logoColor=58A6FF" alt="Cloud Architecture">
-    <img src="https://img.shields.io/badge/Backend_Engineering-161B22?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="Backend Engineering">
-    <img src="https://img.shields.io/badge/Scalable_Apps-161B22?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Scalable Applications">
-    <img src="https://img.shields.io/badge/Microservices-161B22?style=for-the-badge&logo=kubernetes&logoColor=58A6FF" alt="Microservices">
-    <img src="https://img.shields.io/badge/DevOps_&_CI/CD-161B22?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="DevOps">
-    <img src="https://img.shields.io/badge/AI_/_LLM_Apps-161B22?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="AI/LLM">
-    <img src="https://img.shields.io/badge/Software_Architecture-161B22?style=for-the-badge&logo=graphql&logoColor=58A6FF" alt="Software Architecture">
-  </p>
-</blockquote>
-
-<br>
 
 <!-- Currently Learning -->
 <h2 align="left">
@@ -269,7 +264,7 @@ currently: Building scalable, reliable software
 
 </div> -->
 
-<br>
+<!-- <br> -->
 
 <!-- Let's Connect -->
 <h2 align="left">
