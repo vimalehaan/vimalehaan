@@ -258,16 +258,16 @@ currently: Building scalable, reliable software
 <br>
 
 <!-- GitHub Activity -->
-<h2 align="left">
+<!-- <h2 align="left">
   <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2358A6FF" width="28" height="28" valign="middle">
   &nbsp;GitHub Activity
 </h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vimalehaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Most Used Languages">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vimalehaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages">
 
-</div>
+</div> -->
 
 <br>
 
