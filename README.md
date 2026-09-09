@@ -121,12 +121,16 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="90" alt="AWS">
   </p>
   <p>
-    <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="EC2">
-    <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3">
-    <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="RDS">
-    <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda">
-    <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudWatch">
-    <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Route 53">
+    <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logoColor=white" alt="EC2">
+    <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logoColor=white" alt="S3">
+    <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logoColor=white" alt="Lambda">
+    <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logoColor=white" alt="RDS">
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logoColor=white" alt="DynamoDB">
+    <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logoColor=white" alt="API Gateway">
+    <img src="https://img.shields.io/badge/VPC-7AA116?style=for-the-badge&logoColor=white" alt="VPC">
+    <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logoColor=white" alt="IAM">
+    <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logoColor=white" alt="CloudWatch">
+    <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logoColor=white" alt="Elastic Beanstalk">
   </p>
 </blockquote>
 
