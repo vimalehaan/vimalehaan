@@ -3,12 +3,8 @@
 <!-- Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Lehaan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cloud%20%C2%B7%20Full-Stack%20%7C%20AWS&descSize=16&descAlignY=55&descAlign=50" alt="Lehaan" />
 
-<br>
-
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+software+solutions;Exploring+cloud-native+architectures;Turning+ideas+into+real-world+applications" alt="Typing animation" />
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=Building+scalable+software+solutions;Exploring+cloud-native+architectures;Turning+ideas+into+real-world+applications" alt="Typing animation" />
 
 <!-- Social Badges -->
 <a href="YOUR_LINKEDIN_URL">
