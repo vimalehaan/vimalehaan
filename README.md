@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Lehaan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cloud%20%C2%B7%20Full-Stack%20%7C%20AWS&descSize=16&descAlignY=55&descAlign=62" alt="Lehaan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Lehaan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cloud%20%C2%B7%20Full-Stack%20%7C%20AWS&descSize=16&descAlignY=55&descAlign=50" alt="Lehaan" />
 
 <br>
 
