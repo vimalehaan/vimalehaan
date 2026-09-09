@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Lehaan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cloud%20%C2%B7%20Full-Stack%20%7C%20AWS&descSize=16&descAlignY=55&descAlign=50" alt="Lehaan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Lehaananth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Cloud&descSize=16&descAlignY=55&descAlign=50" alt="Lehaan" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=Building+scalable+software+solutions;Exploring+cloud-native+architectures;Turning+ideas+into+real-world+applications" alt="Typing animation" />
@@ -10,10 +10,6 @@
 <!-- Social Badges -->
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL">
@@ -120,13 +116,14 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 
 <blockquote>
   <p>
-    Building and deploying applications on AWS while developing a deeper understanding of cloud architecture, scalability, security, and reliability.
+    Designing and deploying applications on AWS, with a focus on building scalable, secure, reliable, and resilient cloud architectures.
   </p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="90" alt="AWS">
   </p>
   <p>
     <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="40" alt="EC2" style="border-radius: 10px;">
+    <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2-Auto-Scaling.svg" width="40" alt="EC2" style="border-radius: 10px;">
      <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" width="40" alt="S#" style="border-radius: 10px;">
       <img src="https://icon.icepanel.io/AWS/svg/Database/RDS.svg" width="40" alt="EC2" style="border-radius: 10px;">
       <img src="https://icon.icepanel.io/AWS/svg/Database/Aurora.svg" width="40" alt="S#" style="border-radius: 10px;">
@@ -138,6 +135,8 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
     <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" width="40" alt="EC2" style="border-radius: 10px;">
      <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/CloudFront.svg" width="40" alt="S#" style="border-radius: 10px;">
       <img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Container-Service.svg" width="40" alt="EC2" style="border-radius: 10px;">
+      <img src="https://icon.icepanel.io/AWS/svg/Containers/Elastic-Container-Registry.svg" width="40" alt="EC2" style="border-radius: 10px;">
+      <img src="https://icon.icepanel.io/AWS/svg/Compute/Fargate.svg" width="40" alt="EC2" style="border-radius: 10px;">
      <img src="https://icon.icepanel.io/AWS/svg/Compute/Elastic-Beanstalk.svg" width="40" alt="S#" style="border-radius: 10px;">
     <img src="https://icon.icepanel.io/AWS/svg/Analytics/CloudSearch.svg" width="40" alt="EC2" style="border-radius: 10px;">
      <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" width="40" alt="S#" style="border-radius: 10px;">
@@ -176,22 +175,10 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 <blockquote>
   <p>
     <img src="https://api.iconify.design/lucide:cloud.svg?color=%23FF9900" width="20" valign="middle">
-    &nbsp;<strong>AWS Cloud Application</strong><br>
-    A cloud-based application demonstrating real-world deployment and integration with AWS services.<br>
-    <code>AWS</code> <code>Node.js</code> <code>React</code> <code>Database</code><br>
-    <a href="YOUR_PROJECT_1_URL">
-      <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
-    </a>
-  </p>
-</blockquote>
-
-<blockquote>
-  <p>
-    <img src="https://api.iconify.design/lucide:layers.svg?color=%2361DAFB" width="20" valign="middle">
-    &nbsp;<strong>Full-Stack Application</strong><br>
-    A full-stack application built with a modern frontend, RESTful backend, and persistent data layer.<br>
-    <code>React</code> <code>Node.js</code> <code>Express</code> <code>Database</code><br>
-    <a href="YOUR_PROJECT_2_URL">
+    &nbsp;<strong>Devhub</strong><br>
+    A full-stack Project and Issue Management Platform featuring authentication, database management, scalable development, and AWS cloud deployment<br>
+    <code>AWS</code> <code>Node.js</code> <code>React</code> <code>PostgreSQL</code><br>
+    <a href="https://github.com/vimalehaan/devhub">
       <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
     </a>
   </p>
@@ -200,16 +187,27 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 <blockquote>
   <p>
     <img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="20" valign="middle">
-    &nbsp;<strong>AI-Powered Application</strong><br>
-    An application exploring practical use cases of AI and LLM technologies within modern software systems.<br>
-    <code>Python</code> <code>AI</code> <code>LLMs</code> <code>APIs</code><br>
-    <a href="YOUR_PROJECT_3_URL">
+    &nbsp;<strong>Research project for long-term container CPU forecasting using a Hybrid Prophet + GRU approach, with controlled model analysis and an adaptive lifecycle framework for monitoring, drift detection, and offline retraining.<br>
+    <code>Time Series</code> <code>AI/ML</code> <code>Python</code><br>
+    <a href="https://github.com/vimalehaan/FYP_GRU_Prophet">
       <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
     </a>
   </p>
 </blockquote>
 
 <blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:layers.svg?color=%2361DAFB" width="20" valign="middle">
+    &nbsp;<strong>Weekly Report Generator & Team Dashboard</strong><br>
+    Full-stack weekly report management platform with role-based workflows, report versioning, manager reviews, team dashboards, project management, and reporting analytics.<br>
+    <code>React</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Jest</code><br>
+    <a href="https://github.com/vimalehaan/Weekly-Report-Generator/tree/dev">
+      <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
+    </a>
+  </p>
+</blockquote>
+
+<!-- <blockquote>
   <p>
     <img src="https://api.iconify.design/lucide:boxes.svg?color=%23ED8B00" width="20" valign="middle">
     &nbsp;<strong>Backend & Systems Project</strong><br>
@@ -219,7 +217,7 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
       <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
     </a>
   </p>
-</blockquote>
+</blockquote> -->
 
 <br>
 
@@ -294,25 +292,24 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/lehaananth-vimalanathan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;
+<!-- &nbsp;
 <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
+</a> -->
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vimalehaan2312@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
 <img src="https://api.iconify.design/lucide:repeat.svg?color=%2358A6FF" width="20" valign="middle">
-&nbsp;
-**Build. Learn. Improve. Repeat.**
+&nbsp;<strong>Build. Learn. Improve. Repeat.</strong>
 
-<br><br>
+<br>
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer" alt="Footer" />
