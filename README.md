@@ -187,7 +187,7 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 <blockquote>
   <p>
     <img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="20" valign="middle">
-    &nbsp;<strong>Research project for long-term container CPU forecasting using a Hybrid Prophet + GRU approach, with controlled model analysis and an adaptive lifecycle framework for monitoring, drift detection, and offline retraining.<br>
+    &nbsp;<strong>Long-Term Cloud CPU Forecasting & Adaptive Model Lifecycle</strong><br>Research project for long-term container CPU forecasting using a Hybrid Prophet + GRU approach, with controlled model analysis and an adaptive lifecycle framework for monitoring, drift detection, and offline retraining.<br>
     <code>Time Series</code> <code>AI/ML</code> <code>Python</code><br>
     <a href="https://github.com/vimalehaan/FYP_GRU_Prophet">
       <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
