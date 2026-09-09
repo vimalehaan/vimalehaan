@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=Building+scalable+software+solutions;Exploring+cloud-native+architectures;Turning+ideas+into+real-world+applications" alt="Typing animation" />
-
+</br>
 <!-- Social Badges -->
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
