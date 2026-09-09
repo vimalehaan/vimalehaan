@@ -148,75 +148,53 @@ currently: Building scalable, reliable software
   &nbsp;Featured Projects
 </h2>
 
-<div align="left">
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:cloud.svg?color=%23FF9900" width="20" valign="middle">
+    &nbsp;<strong>AWS Cloud Application</strong><br>
+    A cloud-based application demonstrating real-world deployment and integration with AWS services.<br>
+    <code>AWS</code> <code>Node.js</code> <code>React</code> <code>Database</code><br>
+    <a href="YOUR_PROJECT_1_URL">
+      <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
+    </a>
+  </p>
+</blockquote>
 
-<h3 align="left">
-  <img src="https://api.iconify.design/lucide:cloud.svg?color=%23FF9900" width="22" valign="middle">
-  &nbsp;AWS Cloud Application
-</h3>
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:layers.svg?color=%2361DAFB" width="20" valign="middle">
+    &nbsp;<strong>Full-Stack Application</strong><br>
+    A full-stack application built with a modern frontend, RESTful backend, and persistent data layer.<br>
+    <code>React</code> <code>Node.js</code> <code>Express</code> <code>Database</code><br>
+    <a href="YOUR_PROJECT_2_URL">
+      <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
+    </a>
+  </p>
+</blockquote>
 
-<p align="left">A cloud-based application demonstrating real-world deployment and integration with AWS services.</p>
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="20" valign="middle">
+    &nbsp;<strong>AI-Powered Application</strong><br>
+    An application exploring practical use cases of AI and LLM technologies within modern software systems.<br>
+    <code>Python</code> <code>AI</code> <code>LLMs</code> <code>APIs</code><br>
+    <a href="YOUR_PROJECT_3_URL">
+      <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
+    </a>
+  </p>
+</blockquote>
 
-<p align="left"><code>AWS</code> <code>Node.js</code> <code>React</code> <code>Database</code></p>
-
-<p align="left">
-  <a href="YOUR_PROJECT_1_URL">
-    <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
-  </a>
-</p>
-
-<br>
-
-<h3 align="left">
-  <img src="https://api.iconify.design/lucide:layers.svg?color=%2361DAFB" width="22" valign="middle">
-  &nbsp;Full-Stack Application
-</h3>
-
-<p align="left">A full-stack application built with a modern frontend, RESTful backend, and persistent data layer.</p>
-
-<p align="left"><code>React</code> <code>Node.js</code> <code>Express</code> <code>Database</code></p>
-
-<p align="left">
-  <a href="YOUR_PROJECT_2_URL">
-    <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
-  </a>
-</p>
-
-<br>
-
-<h3 align="left">
-  <img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="22" valign="middle">
-  &nbsp;AI-Powered Application
-</h3>
-
-<p align="left">An application exploring practical use cases of AI and LLM technologies within modern software systems.</p>
-
-<p align="left"><code>Python</code> <code>AI</code> <code>LLMs</code> <code>APIs</code></p>
-
-<p align="left">
-  <a href="YOUR_PROJECT_3_URL">
-    <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
-  </a>
-</p>
-
-<br>
-
-<h3 align="left">
-  <img src="https://api.iconify.design/lucide:boxes.svg?color=%23ED8B00" width="22" valign="middle">
-  &nbsp;Backend & Systems Project
-</h3>
-
-<p align="left">A project focused on backend engineering, system architecture, databases, and scalable application design.</p>
-
-<p align="left"><code>Java</code> <code>APIs</code> <code>Database</code> <code>Architecture</code></p>
-
-<p align="left">
-  <a href="YOUR_PROJECT_4_URL">
-    <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
-  </a>
-</p>
-
-</div>
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:boxes.svg?color=%23ED8B00" width="20" valign="middle">
+    &nbsp;<strong>Backend & Systems Project</strong><br>
+    A project focused on backend engineering, system architecture, databases, and scalable application design.<br>
+    <code>Java</code> <code>APIs</code> <code>Database</code> <code>Architecture</code><br>
+    <a href="YOUR_PROJECT_4_URL">
+      <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
+    </a>
+  </p>
+</blockquote>
 
 <br>
 
