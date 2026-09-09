@@ -82,27 +82,32 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 
 <blockquote>
   <p><strong>Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,mysql&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,mysql,c,bash&perline=8" alt="Languages" />
 </blockquote>
 
 <blockquote>
   <p><strong>Frontend</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,html,css&perline=8" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite,tailwind,materialui&perline=8" alt="Frontend" />
 </blockquote>
 
 <blockquote>
   <p><strong>Backend</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,jest,supabase,firebase&perline=8" alt="Backend" />
 </blockquote>
 
 <blockquote>
   <p><strong>Cloud & DevOps</strong></p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,gcp,git,github&perline=8" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,gcp,git,github,githubactions&perline=8" alt="Cloud & DevOps" />
 </blockquote>
 
 <blockquote>
   <p><strong>Databases</strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=8" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb&perline=8" alt="Databases" />
+</blockquote>
+
+<blockquote>
+  <p><strong>Tools & IDEs</strong></p>
+  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,figma&perline=8" alt="Databases" />
 </blockquote>
 
 <br>
@@ -110,7 +115,7 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 <!-- Cloud & AWS -->
 <h2 align="left">
   <img src="https://api.iconify.design/lucide:cloud.svg?color=%2358A6FF" width="28" height="28" valign="middle">
-  &nbsp;Cloud & AWS
+  &nbsp;AWS
 </h2>
 
 <blockquote>
