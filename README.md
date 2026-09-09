@@ -313,7 +313,12 @@ currently: Building scalable, reliable software
 <br><br>
 
 <img src="https://api.iconify.design/lucide:repeat.svg?color=%2358A6FF" width="20" valign="middle">
-&nbsp;**Build. Learn. Improve. Repeat.**
+&nbsp;
+**Build. Learn. Improve. Repeat.**
 
+<br><br>
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer" alt="Footer" />
 
 </div>
