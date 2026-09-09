@@ -140,14 +140,13 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 <blockquote>
   <p>
     <img src="https://img.shields.io/badge/System_Design-161B22?style=for-the-badge&logo=diagramsdotnet&logoColor=58A6FF" alt="System Design">
-    <img src="https://img.shields.io/badge/Distributed_Systems-161B22?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" alt="Distributed Systems">
-    <img src="https://img.shields.io/badge/Cloud_Architecture-161B22?style=for-the-badge&logo=amazonaws&logoColor=58A6FF" alt="Cloud Architecture">
-    <img src="https://img.shields.io/badge/Backend_Engineering-161B22?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="Backend Engineering">
-    <img src="https://img.shields.io/badge/Scalable_Apps-161B22?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Scalable Applications">
-    <img src="https://img.shields.io/badge/Microservices-161B22?style=for-the-badge&logo=kubernetes&logoColor=58A6FF" alt="Microservices">
-    <img src="https://img.shields.io/badge/DevOps_&_CI/CD-161B22?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="DevOps">
-    <img src="https://img.shields.io/badge/AI_/_LLM_Apps-161B22?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="AI/LLM">
     <img src="https://img.shields.io/badge/Software_Architecture-161B22?style=for-the-badge&logo=graphql&logoColor=58A6FF" alt="Software Architecture">
+    <img src="https://img.shields.io/badge/Distributed_Systems-161B22?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" alt="Distributed Systems">
+    <img src="https://img.shields.io/badge/Backend_Engineering-161B22?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="Backend Engineering">
+    <img src="https://img.shields.io/badge/Cloud_Architecture-161B22?style=for-the-badge&logo=amazonaws&logoColor=58A6FF" alt="Cloud Architecture">
+    <img src="https://img.shields.io/badge/Microservices-161B22?style=for-the-badge&logo=kubernetes&logoColor=58A6FF" alt="Microservices">
+    <img src="https://img.shields.io/badge/DevOps_%26_CI/CD-161B22?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="DevOps & CI/CD">
+    <img src="https://img.shields.io/badge/AI_%26_LLM_Applications-161B22?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="AI & LLM Applications">
   </p>
 </blockquote>
 
@@ -213,7 +212,7 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 
 
 <!-- Currently Learning -->
-<h2 align="left">
+<!-- <h2 align="left">
   <img src="https://api.iconify.design/lucide:book-open.svg?color=%2358A6FF" width="28" height="28" valign="middle">
   &nbsp;Currently Learning
 </h2>
@@ -250,7 +249,7 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
   </p>
 </blockquote>
 
-<br>
+<br> -->
 
 <!-- GitHub Activity -->
 <!-- <h2 align="left">
