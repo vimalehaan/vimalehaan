@@ -25,8 +25,7 @@
 
 </div>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-b8b4300b-ad26-4b1c-791a-20d8e0d2f1e5.gif" width="100%">
+<br>
 
 <!-- About Me -->
 <h2 align="left">
@@ -43,41 +42,47 @@ interests: [System Design, Distributed Systems, AI/LLMs]
 currently: Building scalable, reliable software
 ```
 
-<table>
-  <tr>
-    <td width="28" valign="top">
-      <img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="22">
-    </td>
-    <td>Building full-stack and backend applications</td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://api.iconify.design/lucide:cloud.svg?color=%2358A6FF" width="22">
-    </td>
-    <td>Developing cloud-native solutions with AWS</td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="22">
-    </td>
-    <td>Exploring distributed systems & scalable architectures</td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://api.iconify.design/lucide:brain.svg?color=%2358A6FF" width="22">
-    </td>
-    <td>Exploring AI and LLM-powered applications</td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="22">
-    </td>
-    <td>Continuously learning and improving as an engineer</td>
-  </tr>
-</table>
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:code-2.svg?color=%2358A6FF" width="20" valign="middle">
+    &nbsp;<strong>Full-Stack Development</strong><br>
+    Building full-stack and backend applications
+  </p>
+</blockquote>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-b8b4300b-ad26-4b1c-791a-20d8e0d2f1e5.gif" width="100%">
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:cloud.svg?color=%2358A6FF" width="20" valign="middle">
+    &nbsp;<strong>Cloud Engineering</strong><br>
+    Developing cloud-native solutions with AWS
+  </p>
+</blockquote>
+
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="20" valign="middle">
+    &nbsp;<strong>Distributed Systems</strong><br>
+    Exploring distributed systems & scalable architectures
+  </p>
+</blockquote>
+
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:brain.svg?color=%2358A6FF" width="20" valign="middle">
+    &nbsp;<strong>AI & LLMs</strong><br>
+    Exploring AI and LLM-powered applications
+  </p>
+</blockquote>
+
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="20" valign="middle">
+    &nbsp;<strong>Continuous Learning</strong><br>
+    Continuously learning and improving as an engineer
+  </p>
+</blockquote>
+
+<br>
 
 <!-- What I Do -->
 <h2 align="left">
@@ -85,43 +90,52 @@ currently: Building scalable, reliable software
   &nbsp;What I Do
 </h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="top">
-
-**Backend Engineering**
-
-<img src="https://api.iconify.design/lucide:server.svg?color=%2358A6FF" width="18" valign="middle"> Designing robust APIs and backend systems with a focus on clean architecture, maintainability, performance, and reliability.
-
-</td>
-    <td width="50%" valign="top">
-
-**Cloud Engineering**
-
-<img src="https://api.iconify.design/lucide:cloud-cog.svg?color=%2358A6FF" width="18" valign="middle"> Building and deploying applications using AWS and exploring cloud-native architectures designed for scalability and resilience.
-
-</td>
+    <td width="48%" valign="top">
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:server.svg?color=%2358A6FF" width="22" valign="middle">
+          &nbsp;<strong>Backend Engineering</strong><br><br>
+          Designing robust APIs and backend systems with a focus on clean architecture, maintainability, performance, and reliability.
+        </p>
+      </blockquote>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:cloud-cog.svg?color=%2358A6FF" width="22" valign="middle">
+          &nbsp;<strong>Cloud Engineering</strong><br><br>
+          Building and deploying applications using AWS and exploring cloud-native architectures designed for scalability and resilience.
+        </p>
+      </blockquote>
+    </td>
   </tr>
   <tr>
     <td valign="top">
-
-**Full-Stack Development**
-
-<img src="https://api.iconify.design/lucide:layout-template.svg?color=%2358A6FF" width="18" valign="middle"> Building complete applications across the frontend, backend, APIs, databases, and deployment layers.
-
-</td>
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:layout-template.svg?color=%2358A6FF" width="22" valign="middle">
+          &nbsp;<strong>Full-Stack Development</strong><br><br>
+          Building complete applications across the frontend, backend, APIs, databases, and deployment layers.
+        </p>
+      </blockquote>
+    </td>
+    <td></td>
     <td valign="top">
-
-**System Design**
-
-<img src="https://api.iconify.design/lucide:boxes.svg?color=%2358A6FF" width="18" valign="middle"> Exploring scalable architectures, distributed systems, databases, networking, and the engineering decisions behind reliable systems.
-
-</td>
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:boxes.svg?color=%2358A6FF" width="22" valign="middle">
+          &nbsp;<strong>System Design</strong><br><br>
+          Exploring scalable architectures, distributed systems, databases, networking, and the engineering decisions behind reliable systems.
+        </p>
+      </blockquote>
+    </td>
   </tr>
 </table>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-b8b4300b-ad26-4b1c-791a-20d8e0d2f1e5.gif" width="100%">
+<br>
 
 <!-- Tech Stack -->
 <h2 align="left">
@@ -129,28 +143,32 @@ currently: Building scalable, reliable software
   &nbsp;Tech Stack
 </h2>
 
-<p align="left">
+<blockquote>
+  <p><strong>Languages</strong></p>
   <img src="https://skillicons.dev/icons?i=js,ts,java,python,mysql&perline=8" alt="Languages" />
-</p>
+</blockquote>
 
-<p align="left">
+<blockquote>
+  <p><strong>Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=react,html,css&perline=8" alt="Frontend" />
-</p>
+</blockquote>
 
-<p align="left">
+<blockquote>
+  <p><strong>Backend</strong></p>
   <img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" alt="Backend" />
-</p>
+</blockquote>
 
-<p align="left">
+<blockquote>
+  <p><strong>Cloud & DevOps</strong></p>
   <img src="https://skillicons.dev/icons?i=aws,docker,gcp,git,github&perline=8" alt="Cloud & DevOps" />
-</p>
+</blockquote>
 
-<p align="left">
+<blockquote>
+  <p><strong>Databases</strong></p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=8" alt="Databases" />
-</p>
+</blockquote>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-b8b4300b-ad26-4b1c-791a-20d8e0d2f1e5.gif" width="100%">
+<br>
 
 <!-- Cloud & AWS -->
 <h2 align="left">
@@ -158,26 +176,24 @@ currently: Building scalable, reliable software
   &nbsp;Cloud & AWS
 </h2>
 
-> Building and deploying applications on AWS while developing a deeper understanding of cloud architecture, scalability, security, and reliability.
+<blockquote>
+  <p>
+    Building and deploying applications on AWS while developing a deeper understanding of cloud architecture, scalability, security, and reliability.
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="90" alt="AWS">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="EC2">
+    <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3">
+    <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="RDS">
+    <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda">
+    <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudWatch">
+    <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Route 53">
+  </p>
+</blockquote>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" alt="AWS">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonec2/FF9900" width="36" alt="EC2">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/amazons3/569A31" width="36" alt="S3">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/amazonrds/527FFF" width="36" alt="RDS">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/amazonlambda/FF9900" width="36" alt="Lambda">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B" width="36" alt="CloudWatch">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/amazonroute53/8C4FFF" width="36" alt="Route 53">
-</p>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-b8b4300b-ad26-4b1c-791a-20d8e0d2f1e5.gif" width="100%">
+<br>
 
 <!-- Featured Projects -->
 <h2 align="left">
@@ -185,67 +201,68 @@ currently: Building scalable, reliable software
   &nbsp;Featured Projects
 </h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="top">
-
-**AWS Cloud Application**
-
-<img src="https://api.iconify.design/lucide:cloud.svg?color=%23FF9900" width="16" valign="middle"> A cloud-based application demonstrating real-world deployment and integration with AWS services.
-
-`AWS` `Node.js` `React` `Database`
-
-<a href="YOUR_PROJECT_1_URL">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
-</a>
-
-</td>
-    <td width="50%" valign="top">
-
-**Full-Stack Application**
-
-<img src="https://api.iconify.design/lucide:layers.svg?color=%2361DAFB" width="16" valign="middle"> A full-stack application built with a modern frontend, RESTful backend, and persistent data layer.
-
-`React` `Node.js` `Express` `Database`
-
-<a href="YOUR_PROJECT_2_URL">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
-</a>
-
-</td>
+    <td width="48%" valign="top">
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:cloud.svg?color=%23FF9900" width="22" valign="middle">
+          &nbsp;<strong>AWS Cloud Application</strong><br><br>
+          A cloud-based application demonstrating real-world deployment and integration with AWS services.<br><br>
+          <code>AWS</code> <code>Node.js</code> <code>React</code> <code>Database</code><br><br>
+          <a href="YOUR_PROJECT_1_URL">
+            <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
+          </a>
+        </p>
+      </blockquote>
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:layers.svg?color=%2361DAFB" width="22" valign="middle">
+          &nbsp;<strong>Full-Stack Application</strong><br><br>
+          A full-stack application built with a modern frontend, RESTful backend, and persistent data layer.<br><br>
+          <code>React</code> <code>Node.js</code> <code>Express</code> <code>Database</code><br><br>
+          <a href="YOUR_PROJECT_2_URL">
+            <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
+          </a>
+        </p>
+      </blockquote>
+    </td>
   </tr>
   <tr>
     <td valign="top">
-
-**AI-Powered Application**
-
-<img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="16" valign="middle"> An application exploring practical use cases of AI and LLM technologies within modern software systems.
-
-`Python` `AI` `LLMs` `APIs`
-
-<a href="YOUR_PROJECT_3_URL">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
-</a>
-
-</td>
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="22" valign="middle">
+          &nbsp;<strong>AI-Powered Application</strong><br><br>
+          An application exploring practical use cases of AI and LLM technologies within modern software systems.<br><br>
+          <code>Python</code> <code>AI</code> <code>LLMs</code> <code>APIs</code><br><br>
+          <a href="YOUR_PROJECT_3_URL">
+            <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
+          </a>
+        </p>
+      </blockquote>
+    </td>
+    <td></td>
     <td valign="top">
-
-**Backend & Systems Project**
-
-<img src="https://api.iconify.design/lucide:boxes.svg?color=%23ED8B00" width="16" valign="middle"> A project focused on backend engineering, system architecture, databases, and scalable application design.
-
-`Java` `APIs` `Database` `Architecture`
-
-<a href="YOUR_PROJECT_4_URL">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
-</a>
-
-</td>
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:boxes.svg?color=%23ED8B00" width="22" valign="middle">
+          &nbsp;<strong>Backend & Systems Project</strong><br><br>
+          A project focused on backend engineering, system architecture, databases, and scalable application design.<br><br>
+          <code>Java</code> <code>APIs</code> <code>Database</code> <code>Architecture</code><br><br>
+          <a href="YOUR_PROJECT_4_URL">
+            <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" alt="View Project">
+          </a>
+        </p>
+      </blockquote>
+    </td>
   </tr>
 </table>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-b8b4300b-ad26-4b1c-791a-20d8e0d2f1e5.gif" width="100%">
+<br>
 
 <!-- Engineering Interests -->
 <h2 align="left">
@@ -253,20 +270,21 @@ currently: Building scalable, reliable software
   &nbsp;Engineering Interests
 </h2>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/System_Design-161B22?style=for-the-badge&logo=diagramsdotnet&logoColor=58A6FF" alt="System Design">
-  <img src="https://img.shields.io/badge/Distributed_Systems-161B22?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" alt="Distributed Systems">
-  <img src="https://img.shields.io/badge/Cloud_Architecture-161B22?style=for-the-badge&logo=amazonaws&logoColor=58A6FF" alt="Cloud Architecture">
-  <img src="https://img.shields.io/badge/Backend_Engineering-161B22?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="Backend Engineering">
-  <img src="https://img.shields.io/badge/Scalable_Apps-161B22?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Scalable Applications">
-  <img src="https://img.shields.io/badge/Microservices-161B22?style=for-the-badge&logo=kubernetes&logoColor=58A6FF" alt="Microservices">
-  <img src="https://img.shields.io/badge/DevOps_&_CI/CD-161B22?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="DevOps">
-  <img src="https://img.shields.io/badge/AI_/_LLM_Apps-161B22?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="AI/LLM">
-  <img src="https://img.shields.io/badge/Software_Architecture-161B22?style=for-the-badge&logo=architecture&logoColor=58A6FF" alt="Software Architecture">
-</p>
+<blockquote>
+  <p>
+    <img src="https://img.shields.io/badge/System_Design-161B22?style=for-the-badge&logo=diagramsdotnet&logoColor=58A6FF" alt="System Design">
+    <img src="https://img.shields.io/badge/Distributed_Systems-161B22?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" alt="Distributed Systems">
+    <img src="https://img.shields.io/badge/Cloud_Architecture-161B22?style=for-the-badge&logo=amazonaws&logoColor=58A6FF" alt="Cloud Architecture">
+    <img src="https://img.shields.io/badge/Backend_Engineering-161B22?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="Backend Engineering">
+    <img src="https://img.shields.io/badge/Scalable_Apps-161B22?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Scalable Applications">
+    <img src="https://img.shields.io/badge/Microservices-161B22?style=for-the-badge&logo=kubernetes&logoColor=58A6FF" alt="Microservices">
+    <img src="https://img.shields.io/badge/DevOps_&_CI/CD-161B22?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="DevOps">
+    <img src="https://img.shields.io/badge/AI_/_LLM_Apps-161B22?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="AI/LLM">
+    <img src="https://img.shields.io/badge/Software_Architecture-161B22?style=for-the-badge&logo=graphql&logoColor=58A6FF" alt="Software Architecture">
+  </p>
+</blockquote>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-b8b4300b-ad26-4b1c-791a-20d8e0d2f1e5.gif" width="100%">
+<br>
 
 <!-- Currently Learning -->
 <h2 align="left">
@@ -274,35 +292,48 @@ currently: Building scalable, reliable software
   &nbsp;Currently Learning
 </h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="28" valign="top">
-      <img src="https://api.iconify.design/lucide:cloud-cog.svg?color=%2358A6FF" width="22">
+    <td width="48%" valign="top">
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:cloud-cog.svg?color=%2358A6FF" width="20" valign="middle">
+          &nbsp;<strong>Advanced AWS & Cloud Architecture</strong>
+        </p>
+      </blockquote>
     </td>
-    <td>Advanced AWS & Cloud Architecture</td>
+    <td width="4%"></td>
+    <td width="48%" valign="top">
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="20" valign="middle">
+          &nbsp;<strong>Distributed Systems & System Design</strong>
+        </p>
+      </blockquote>
+    </td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="22">
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="20" valign="middle">
+          &nbsp;<strong>AI / LLM Application Development</strong>
+        </p>
+      </blockquote>
     </td>
-    <td>Distributed Systems & System Design</td>
-  </tr>
-  <tr>
+    <td></td>
     <td valign="top">
-      <img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="22">
+      <blockquote>
+        <p>
+          <img src="https://api.iconify.design/lucide:git-branch.svg?color=%2358A6FF" width="20" valign="middle">
+          &nbsp;<strong>DevOps & CI/CD</strong>
+        </p>
+      </blockquote>
     </td>
-    <td>AI / LLM Application Development</td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://api.iconify.design/lucide:git-branch.svg?color=%2358A6FF" width="22">
-    </td>
-    <td>DevOps & CI/CD</td>
   </tr>
 </table>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-b8b4300b-ad26-4b1c-791a-20d8e0d2f1e5.gif" width="100%">
+<br>
 
 <!-- Certifications -->
 <h2 align="left">
@@ -310,15 +341,16 @@ currently: Building scalable, reliable software
   &nbsp;Certifications & Learning
 </h2>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_Certifications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certifications">
-  <img src="https://img.shields.io/badge/Cloud_Architecture-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Architecture">
-  <img src="https://img.shields.io/badge/AI_/_LLM_Development-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI/LLM">
-  <img src="https://img.shields.io/badge/Continuous_Learning-58A6FF?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Continuous Learning">
-</p>
+<blockquote>
+  <p>
+    <img src="https://img.shields.io/badge/AWS_Certifications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certifications">
+    <img src="https://img.shields.io/badge/Cloud_Architecture-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Architecture">
+    <img src="https://img.shields.io/badge/AI_/_LLM_Development-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI/LLM">
+    <img src="https://img.shields.io/badge/Continuous_Learning-58A6FF?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Continuous Learning">
+  </p>
+</blockquote>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-b8b4300b-ad26-4b1c-791a-20d8e0d2f1e5.gif" width="100%">
+<br>
 
 <!-- GitHub Activity -->
 <h2 align="left">
@@ -342,8 +374,7 @@ currently: Building scalable, reliable software
 
 </div>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-b8b4300b-ad26-4b1c-791a-20d8e0d2f1e5.gif" width="100%">
+<br>
 
 <!-- Let's Connect -->
 <h2 align="left">
@@ -351,7 +382,11 @@ currently: Building scalable, reliable software
   &nbsp;Let's Connect
 </h2>
 
-> I'm always interested in connecting with people who are passionate about software engineering, cloud technologies, system design, and AI.
+<blockquote>
+  <p>
+    I'm always interested in connecting with people who are passionate about software engineering, cloud technologies, system design, and AI.
+  </p>
+</blockquote>
 
 <div align="center">
 
