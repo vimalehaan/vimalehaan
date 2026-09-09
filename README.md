@@ -127,6 +127,7 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
   </p>
   <p>
     <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="40" alt="EC2" style="border-radius: 10px;">
+     <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" width="40" alt="EC2" style="border-radius: 10px;">
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logoColor=white" alt="S3">
     <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logoColor=white" alt="Lambda">
