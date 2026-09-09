@@ -304,7 +304,7 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<br><br>
+<br>
 
 <img src="https://api.iconify.design/lucide:repeat.svg?color=%2358A6FF" width="20" valign="middle">
 &nbsp;<strong>Build. Learn. Improve. Repeat.</strong>
