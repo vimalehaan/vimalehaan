@@ -4,15 +4,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Lehaananth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Cloud&descSize=16&descAlignY=55&descAlign=50" alt="Lehaan" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=Building+scalable+software+solutions;Exploring+cloud-native+architectures;Turning+ideas+into+real-world+applications" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=engineering+solutions+that+scale;building+cloud-native+systems;turning+ideas+into+real-world+impact" alt="Typing animation" />
 </br>
 </br>
 <!-- Social Badges -->
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/lehaananth-vimalanathan">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vimalehaan2312@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
