@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Lehaan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cloud%20%26%20Full-Stack%20%7C%20AWS&descSize=16&descAlignY=55&descAlign=62" alt="Lehaan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Lehaan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cloud%20%C2%B7%20Full-Stack%20%7C%20AWS&descSize=16&descAlignY=55&descAlign=62" alt="Lehaan" />
 
 <br>
 
@@ -226,25 +226,37 @@ currently: Building scalable, reliable software
   &nbsp;Currently Learning
 </h2>
 
-<p>
-  <img src="https://api.iconify.design/lucide:cloud-cog.svg?color=%2358A6FF" width="20" valign="middle">
-  &nbsp;<strong>Advanced AWS & Cloud Architecture</strong>
-</p>
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:cloud-cog.svg?color=%2358A6FF" width="20" valign="middle">
+    &nbsp;<strong>Advanced AWS & Cloud Architecture</strong><br>
+    Deepening expertise in AWS services and scalable cloud design
+  </p>
+</blockquote>
 
-<p>
-  <img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="20" valign="middle">
-  &nbsp;<strong>Distributed Systems & System Design</strong>
-</p>
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:network.svg?color=%2358A6FF" width="20" valign="middle">
+    &nbsp;<strong>Distributed Systems & System Design</strong><br>
+    Studying patterns for building reliable, large-scale systems
+  </p>
+</blockquote>
 
-<p>
-  <img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="20" valign="middle">
-  &nbsp;<strong>AI / LLM Application Development</strong>
-</p>
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="20" valign="middle">
+    &nbsp;<strong>AI / LLM Application Development</strong><br>
+    Building practical applications powered by AI and language models
+  </p>
+</blockquote>
 
-<p>
-  <img src="https://api.iconify.design/lucide:git-branch.svg?color=%2358A6FF" width="20" valign="middle">
-  &nbsp;<strong>DevOps & CI/CD</strong>
-</p>
+<blockquote>
+  <p>
+    <img src="https://api.iconify.design/lucide:git-branch.svg?color=%2358A6FF" width="20" valign="middle">
+    &nbsp;<strong>DevOps & CI/CD</strong><br>
+    Improving deployment workflows and automation pipelines
+  </p>
+</blockquote>
 
 <br>
 
@@ -256,17 +268,17 @@ currently: Building scalable, reliable software
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vimalehaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vimalehaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=vimalehaan&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph">
+<img src="https://activity-graph.vercel.app/graph?username=vimalehaan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph">
 
 </div>
 
@@ -303,9 +315,5 @@ currently: Building scalable, reliable software
 <img src="https://api.iconify.design/lucide:repeat.svg?color=%2358A6FF" width="20" valign="middle">
 &nbsp;**Build. Learn. Improve. Repeat.**
 
-<br><br>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer" alt="Footer" />
 
 </div>
