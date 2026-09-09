@@ -265,7 +265,7 @@ currently: Building scalable, reliable software
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vimalehaan&theme=tokyonight" width="90%" alt="Repos per Language">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vimalehaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Most Used Languages">
 
 </div>
 
