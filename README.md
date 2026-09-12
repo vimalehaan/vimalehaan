@@ -22,7 +22,7 @@
 
 <!-- About Me -->
 <h2 align="left">
-  <img src="https://api.iconify.design/lucide:user-round.svg?color=%2358A6FF" width="28" height="28" valign="middle">
+  <img src="https://api.iconify.design/lucide:user-round.svg?color=%FFC60C" width="28" height="28" valign="middle">
   &nbsp;About Me
 </h2>
 
