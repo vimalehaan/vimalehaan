@@ -103,7 +103,7 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 
 <blockquote>
   <!-- <p><strong>Tools & IDEs</strong></p> -->
-  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,figma,unity&perline=8" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,webstorm,androidstudio,figma,unity&perline=8" alt="Databases" />
 </blockquote>
 
 <br>
