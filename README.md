@@ -83,12 +83,12 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 
 <blockquote>
   <!-- <p><strong>Frontend</strong></p> -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite,tailwind,materialui&perline=8" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite,tailwind,materialui,vitest&perline=8" alt="Frontend" />
 </blockquote>
 
 <blockquote>
   <!-- <p><strong>Backend</strong></p> -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,jest,vitest,supabase,firebase&perline=8" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,jest,supabase,firebase&perline=8" alt="Backend" />
 </blockquote>
 
 <blockquote>
