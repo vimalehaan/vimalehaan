@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC60C,100:ebd07a&height=180&section=header&text=Lehaananth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Cloud&descSize=16&descAlignY=55&descAlign=50" alt="Lehaan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Lehaananth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Cloud&descSize=16&descAlignY=55&descAlign=50" alt="Lehaan" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=engineering+solutions+that+scale;building+cloud-native+systems;turning+ideas+into+real-world+impact" alt="Typing animation" />
@@ -22,7 +22,7 @@
 
 <!-- About Me -->
 <h2 align="left">
-  <img src="https://api.iconify.design/lucide:user-round.svg?color=%FFC60C" width="28" height="28" valign="middle">
+  <img src="https://api.iconify.design/lucide:user-round.svg?color=%2358A6FF" width="28" height="28" valign="middle">
   &nbsp;About Me
 </h2>
 
@@ -312,6 +312,6 @@ I'm a **Software Engineer** focused on building scalable and reliable applicatio
 <br>
 
 <!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC60C,100:ebd07a&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer" alt="Footer" />
 
 </div>
